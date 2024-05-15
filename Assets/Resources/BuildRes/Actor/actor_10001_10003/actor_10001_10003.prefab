@@ -2117,7 +2117,6 @@ GameObject:
   - component: {fileID: 394802776435085381}
   - component: {fileID: 6376622727989628390}
   - component: {fileID: 7516250268574542180}
-  - component: {fileID: 6609692616008014267}
   m_Layer: 8
   m_Name: actor_10001_10003
   m_TagString: Untagged
@@ -2195,18 +2194,3 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 1, z: 0}
---- !u!114 &6609692616008014267
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7666649944088558110}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 687c64b0a1871734e826566a1c842d46, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hudRoot: {fileID: 0}
-  attackRoot: {fileID: 0}
-  damageuiRoot: {fileID: 0}
